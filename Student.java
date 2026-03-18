@@ -1,4 +1,4 @@
-package de.berlin.StudentDatenbank;
+package de.berlin.StudentenDatenbank;
 
 public class Student {
 
